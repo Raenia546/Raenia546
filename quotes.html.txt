@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>尼采名言</title>
+  <style>
+    body { font-family: serif; background: #f9f9f9; color: #333; padding: 40px; max-width: 700px; margin: auto; }
+    h1 { color: #b00000; }
+  </style>
+</head>
+<body>
+  <h1>尼采名言</h1>
+  <ul>
+    <li>“凡杀不死我的，必使我更强大。”</li>
+    <li>“上帝已死。”</li>
+    <li>“成为你自己。”</li>
+  </ul>
+  <p><a href="index.html">← 回到首页</a></p>
+</body>
+</html>

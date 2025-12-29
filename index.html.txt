@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>尼采 - 作者网站</title>
+  <style>
+    body { font-family: serif; background: #f9f9f9; color: #333; padding: 40px; max-width: 700px; margin: auto; }
+    h1 { color: #b00000; }
+    a { color: #b00000; }
+  </style>
+</head>
+<body>
+  <h1>弗里德里希·尼采</h1>
+  <p>德国哲学家、文化评论家、诗人、古典语文学家。</p>
+  <p>他的思想挑战了传统道德、宗教与哲学，对20世纪哲学、心理学、文学产生深远影响。</p>
+  <p><a href="quotes.html">→ 查看名言</a></p>
+  <p><a href="works.html">→ 主要作品</a></p>
+</body>
+</html>

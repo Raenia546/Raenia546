@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>尼采主要作品</title>
+  <style>
+    body { font-family: serif; background: #f9f9f9; color: #333; padding: 40px; max-width: 700px; margin: auto; }
+    h1 { color: #b00000; }
+  </style>
+</head>
+<body>
+  <h1>主要作品</h1>
+  <ul>
+    <li>《查拉图斯特拉如是说》（1883）</li>
+    <li>《善恶的彼岸》（1886）</li>
+    <li>《悲剧的诞生》（1872）</li>
+  </ul>
+  <p><a href="index.html">← 回到首页</a></p>
+</body>
+</html>
